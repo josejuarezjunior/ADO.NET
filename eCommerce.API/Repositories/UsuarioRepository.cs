@@ -1,11 +1,19 @@
 ﻿using eCommerce.API.Models;
 using System.Collections.Generic;
+using System.Data;
+using System.Data.SqlClient;
 using System.Linq;
 
 namespace eCommerce.API.Repositories
 {
     public class UsuarioRepository : IUsuarioRepository
     {
+        private IDbConnection _connection;
+        public UsuarioRepository()
+        {
+            _connection = new SqlConnection(@"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=eCommerce;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False");
+        }
+
         private static List<Usuario> _db = new List<Usuario>()
         {
             new Usuario(){ Id = 1, Nome = "Filipe Rodrigues", Email = "filipe.rodrigues@gmail.com" },
