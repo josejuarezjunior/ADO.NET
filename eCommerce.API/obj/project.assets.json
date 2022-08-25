@@ -200,11 +200,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\josejuarez.junior\\Documents\\Personal\\ASP.NET\\Secao04\\eCommerce.API\\eCommerce.API\\eCommerce.API.csproj",
+      "projectUniqueName": "C:\\Users\\josejuarez.junior\\Documents\\Personal\\ADO.NET\\Secao04\\eCommerce.API\\eCommerce.API\\eCommerce.API.csproj",
       "projectName": "eCommerce.API",
-      "projectPath": "C:\\Users\\josejuarez.junior\\Documents\\Personal\\ASP.NET\\Secao04\\eCommerce.API\\eCommerce.API\\eCommerce.API.csproj",
+      "projectPath": "C:\\Users\\josejuarez.junior\\Documents\\Personal\\ADO.NET\\Secao04\\eCommerce.API\\eCommerce.API\\eCommerce.API.csproj",
       "packagesPath": "C:\\Users\\josejuarez.junior\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\josejuarez.junior\\Documents\\Personal\\ASP.NET\\Secao04\\eCommerce.API\\eCommerce.API\\obj\\",
+      "outputPath": "C:\\Users\\josejuarez.junior\\Documents\\Personal\\ADO.NET\\Secao04\\eCommerce.API\\eCommerce.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
