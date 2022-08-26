@@ -54,3 +54,9 @@ C:\Users\josejuarez.junior\Documents\Personal\ADO.NET\Secao04\eCommerce.API\eCom
 C:\Users\josejuarez.junior\Documents\Personal\ADO.NET\Secao04\eCommerce.API\eCommerce.API\obj\Debug\net5.0\eCommerce.API.csproj.CopyComplete
 C:\Users\josejuarez.junior\Documents\Personal\ADO.NET\Secao04\eCommerce.API\eCommerce.API\obj\Debug\net5.0\eCommerce.API.genruntimeconfig.cache
 C:\Users\josejuarez.junior\Documents\Personal\ADO.NET\Secao04\eCommerce.API\eCommerce.API\obj\Debug\net5.0\ref\eCommerce.API.dll
+C:\Users\josejuarez.junior\Documents\Personal\ADO.NET\Secao04\eCommerce.API\eCommerce.API\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\josejuarez.junior\Documents\Personal\ADO.NET\Secao04\eCommerce.API\eCommerce.API\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\josejuarez.junior\Documents\Personal\ADO.NET\Secao04\eCommerce.API\eCommerce.API\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\josejuarez.junior\Documents\Personal\ADO.NET\Secao04\eCommerce.API\eCommerce.API\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\josejuarez.junior\Documents\Personal\ADO.NET\Secao04\eCommerce.API\eCommerce.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\josejuarez.junior\Documents\Personal\ADO.NET\Secao04\eCommerce.API\eCommerce.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
