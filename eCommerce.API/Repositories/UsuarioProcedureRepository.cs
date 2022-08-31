@@ -92,7 +92,6 @@ namespace eCommerce.API.Repositories
         public void Insert(Usuario usuario)
         {
             _connection.Open();
-            SqlTransaction transaction = (SqlTransaction)_connection.BeginTransaction();
             try
             {
                 SqlCommand command = new SqlCommand();
